@@ -100,7 +100,7 @@ Checkout the source code under c:\Development\marble from git://anongit.kde.org/
 Using command line:
 <pre>
 cd c:\Development
-git clone -b KDE/4.11 git://anongit.kde.org/marble marble
+git clone -b Applications/17.04 https://invent.kde.org/education/marble.git marble
 cd marble
 </pre>
 
